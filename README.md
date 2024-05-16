@@ -18,12 +18,13 @@
   </a>
 </div>
 
+<hr/>
 <br/>
 <br/>
 
 <div align="center">
-  <img width="390" src="https://streak-state.demolab.com/?user=fatememjadi&count_private=true&theme=react&border_radius=10" alt="streak status"/>
-  <img width="390" src="https://github-readme-state-fatememajdi.vercel.app/api?username=fatememjadi&count_private=true&show_icons=true&theme=react&rank_ico=github&border_radius=10" alt="streak status" alt="read me state"/>
+  <img width="390" src="https://streak-stats.demolab.com?user=fatememajdi&count_private=true&theme=react&border_radius=10" alt="streak status"/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=fatememajdi&count_private=true&show_icons=true&theme=react&rank_ico=github&border_radius=10" alt="read me state"/>
   <br/>
-  <img/>
+    <img align="center" width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatememajdi&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
