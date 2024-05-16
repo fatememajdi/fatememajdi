@@ -8,3 +8,10 @@
 
 - 👩🏻‍💻 Computer Engineer - Frontend Developer
 - 🌱 Currently learning Node.Js and python
+
+<br/>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,next,bootstrap,mui,html,css,tailwind,javascript,typescript,python,git,npm,yarn,cpp,c,vscode"/>
+  </a>
+</div>
