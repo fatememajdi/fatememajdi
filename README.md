@@ -23,7 +23,7 @@
 
 <div align="center">
   <img width="390" src="https://streak-state.demolab.com/?user=fatememjadi&count_private=true&theme=react&border_radius=10" alt="streak status"/>
-  <img/>
+  <img width="390" src="https://github-readme-state-fatememajdi.vercel.app/api?username=fatememjadi&count_private=true&show_icons=true&theme=react&rank_ico=github&border_radius=10" alt="streak status" alt="read me state"/>
   <br/>
   <img/>
 </div>
