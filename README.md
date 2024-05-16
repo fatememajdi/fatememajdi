@@ -17,3 +17,13 @@
     <img src="https://skillicons.dev/icons?i=javascript,typescript,python,git,npm,yarn,cpp,c,vscode"/>
   </a>
 </div>
+
+<br/>
+<br/>
+
+<div align="center">
+  <img width="390" src="https://streak-state.demolab.com/?user=fatememjadi&count_private=true&theme=react&border_radius=10" alt="streak status"/>
+  <img/>
+  <br/>
+  <img/>
+</div>
