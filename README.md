@@ -1,4 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=fatememajdi.fatememajdi"/>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
