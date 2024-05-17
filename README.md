@@ -6,7 +6,7 @@
 </h1>
 
 - 👩🏻‍💻 Computer Engineer - Frontend Developer
-- 🌱 Currently learning Node.Js and python
+- 🌱 Currently learning Node.js and Python
 
 <br/>
 <div align="center">
