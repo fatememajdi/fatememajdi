@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-- 👩🏻‍💻 Computer Engineer - Frontend Developer
+- 👩🏻‍💻 AI Engineer - Frontend Developer
 - 🌱 Currently learning Python
 
 <br/>
